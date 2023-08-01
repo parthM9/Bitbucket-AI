@@ -1,0 +1,17 @@
+BitBucket Setup 1.0 
+
+Name : Parth Madhani
+Email : 101901858@student.swin.edu.au
+Student id : 101901858
+
+This page documents all the work done for completing task 01. 
+
+
+Additions: 
+
+1. Creating bitbucket repo. and adding files in it.
+
+2. Giving access to tutor so they can access my work . 
+
+3. Making the files setup as provided in the canvas.
+

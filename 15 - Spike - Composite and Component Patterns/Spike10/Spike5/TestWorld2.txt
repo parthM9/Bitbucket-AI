@@ -1,0 +1,43 @@
+<Location>
+	<Name>Home
+	<Connections>01,04
+	<Directions>Down Ladder,Enter Tunnel to Sam's House,
+</Location>
+<Location>
+	<Name>Clearing
+	<Connections>00,02,03
+	<Directions>Up Ladder,East to Beach,West to Forest,
+</Location>
+<Location>
+	<Name>Beach
+	<Connections>01,04
+	<Directions>West to Clearing,Through the Mountain to Sam's House,
+</Location>
+<Location>
+	<Name>Forest
+	<Connections>01
+	<Directions>East to the Clearing,
+</Location>
+<Location>
+	<Name>Sam's House
+	<Connections>00,02
+	<Directions>Enter Tunnel to Home,Through the Mountain to Beach,
+</Location>
+<Item>
+	<Name>Sword
+	<Description>A shiny silver sword.
+	<Components>Takeable,
+	<ItemLocation>Home,
+</Item>
+<Item>
+	<Name>Chest
+	<Description>A chest.
+	<Components>Openable,
+	<ItemLocation>Home,
+	<Container>True,
+	<NumItems>1,
+		<Name>Gold
+		<Description>A bag of Gold.
+		<Components>Takeable,
+</Item>
+</!>

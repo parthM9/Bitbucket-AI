@@ -1,0 +1,21 @@
+<Location>
+	<Name>Home
+	<Connections>01,02,03
+	<Directions>Up,Down,Around,
+</Location>
+<Location>
+	<Name>Location3
+	<Connections>00,02,03
+	<Directions>Left,South,Shortcut,
+</Location>
+<Location>
+	<Name>Location5
+	<Connections>00,01,99
+	<Directions>Left,Up,Shortcut,
+</Location>
+<Location>
+	<Name>Location2
+	<Connections>00,02,99
+	<Directions>Enter Cave,South,Shortcut,
+</Location>
+</!>
